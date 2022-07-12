@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/scaneer">
-    <img align="center" width="49%" src="./languages.svg" />
+    <img align="left" width="49%" src="./languages.svg" />
 </a>
-<br/>
+<a href="https://github.com/scaneer">
+  <img align="right" width="49%" src="./metrics.plugin.isocalendar.fullyear.svg" />
+</a>
 <a href="https://github.com/scaneer">
   <img align="center" width="49%" src="./metrics.plugin.habits.charts.svg" />
-</a>
-<a href="https://github.com/scaneer">
-  <img align="center" width="49%" src="./metrics.plugin.isocalendar.fullyear.svg" />
 </a>
