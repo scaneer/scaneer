@@ -127,3 +127,13 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
+
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets..METRICS_TOKEN }}
+          CREDLY_USER: samantha-caneer
