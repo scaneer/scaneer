@@ -12,14 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/scaneer">
-    <img align="center" width="49%" src="./languages.svg" />
-</a>
-<br/>
 
 :zap: Credentials:
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+
+<a href="https://github.com/scaneer">
+    <img align="center" width="49%" src="./languages.svg" />
+</a>
+<br/>
 
 
 <a href="https://github.com/scaneer">
