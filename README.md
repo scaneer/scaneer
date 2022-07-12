@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/scaneer">
-    <img align="center" width="49%" src="./header.svg" />
+    <img align="center" width="49%" src="./languages.svg" />
 </a>
 <br/>
