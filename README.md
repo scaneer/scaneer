@@ -28,3 +28,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/scaneer">
   <img align="center" width="49%" src="./metrics.plugin.habits.charts.svg" />
 </a>
+<a href="https://github.com/scaneer">
+  <img align="center" width="49%" src="./metrics.plugin.stars.svg" />
+</a>
+<a href="https://github.com/scaneer">
+  <img align="center" width="49%" src="./metrics.plugin.notable.indepth.svg" />
+</a>
+<a href="https://github.com/scaneer">
+  <img align="center" width="49%" src="./metrics.plugin.activity.svg" />
+</a>
+<a href="https://github.com/scaneer">
+  <img align="center" width="49%" src="./metrics.plugin.achievements.svg" />
+</a>
