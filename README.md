@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/scaneer">
-    <img align="center" width="49%" src="./languages.svg" />
-</a>
-<br/>
 
 :zap: Credentials:
 <!--START_SECTION:badges-->
@@ -24,6 +20,11 @@ Here are some ideas to get you started:
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/c0d71107-a7e3-4b4a-8bb0-043fcfb0e5c3 "CKAD: Certified Kubernetes Application Developer")
 [![CompTIA Security+ ce Certification](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](http://www.credly.com/badges/1cb9ee0d-f4d2-4286-bdf6-cc54288a9934 "CompTIA Security+ ce Certification")
 <!--END_SECTION:badges-->
+
+<a href="https://github.com/scaneer">
+    <img align="center" width="49%" src="./languages.svg" />
+</a>
+<br/>
 
 
 <a href="https://github.com/scaneer">
