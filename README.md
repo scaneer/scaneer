@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <!--END_SECTION:badges-->
 
 ### Statistics
-<br/>
 <a href="https://github.com/scaneer">
     <img align="center" width="49%" src="./languages.svg" />
 </a>
