@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **scaneer/scaneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +21,27 @@ Here are some ideas to get you started:
 [![CompTIA Security+ ce Certification](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](http://www.credly.com/badges/1cb9ee0d-f4d2-4286-bdf6-cc54288a9934 "CompTIA Security+ ce Certification")
 <!--END_SECTION:badges-->
 
-
 <a href="https://github.com/scaneer">
     <img align="center" width="49%" src="./languages.svg" />
 </a>
+<a href="https://github.com/scaneer">
+  <img align="center" width="49%" src="./metrics.plugin.isocalendar.fullyear.svg" />
+</a>
 <br/>
+
+
+<a href="https://github.com/scaneer">
+  <img align="center" width="49%" src="./metrics.plugin.habits.charts.svg" />
+</a>
+<a href="https://github.com/scaneer">
+  <img align="center" width="49%" src="./metrics.plugin.stars.svg" />
+</a>
+<a href="https://github.com/scaneer">
+  <img align="center" width="49%" src="./metrics.plugin.notable.indepth.svg" />
+</a>
+<a href="https://github.com/scaneer">
+  <img align="center" width="49%" src="./metrics.plugin.activity.svg" />
+</a>
+<a href="https://github.com/scaneer">
+  <img align="center" width="49%" src="./metrics.plugin.achievements.svg" />
+</a>
