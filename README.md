@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/scaneer">
+    <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
