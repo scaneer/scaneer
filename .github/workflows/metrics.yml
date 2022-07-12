@@ -128,3 +128,13 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: samantha-caneer
+
+  stargazers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stargazers.chartist.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: chartist
