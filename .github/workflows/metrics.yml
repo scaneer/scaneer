@@ -8,17 +8,6 @@ on:
   push: {branches: ["master", "main", "feature/*"]}
 jobs:
 
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          filename: header.svg
-
   achievements:
     runs-on: ubuntu-latest
     permissions:
