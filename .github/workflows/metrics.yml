@@ -72,3 +72,56 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           config_timezone: America/Chicago
+
+  languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          plugin_languages: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_days: 30
+          plugin_languages_colors: rainbow
+
+  contributions:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.notable.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+
+  comment-reactions:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
+
+  starred-repos:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
