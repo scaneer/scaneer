@@ -82,6 +82,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_days: 30
