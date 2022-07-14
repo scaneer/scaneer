@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>helm/chart-releaser-action</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>drone/charts</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Helm charts for the Drone platform on Kubernetes</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>falcosecurity/charts</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Community managed Helm charts for running Falco with Kubernetes</div>
