@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">smartrent/nerves_hub_web</span>
+                                        <span class="repo">scaneer/scaneer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">TECH-1560-dependencies</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#58ab646</div>
-                                        <div class="message">revert docker-compose to only db and datadog</div>
+                                        <div class="sha">#0e7aea5</div>
+                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">smartrent/nerves_hub_web</span>
+                                        <span class="repo">scaneer/scaneer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">TECH-1560-dependencies</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0fd0a5d</div>
-                                        <div class="message">format</div>
+                                        <div class="sha">#090c237</div>
+                                        <div class="message">Update metrics.plugin.habits.charts.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">smartrent/nerves_hub_web</span>
+                                        <span class="repo">scaneer/scaneer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">TECH-1560-dependencies</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#27ccc02</div>
-                                        <div class="message">remove spandex phoenix completely</div>
+                                        <div class="sha">#d94a1bb</div>
+                                        <div class="message">Update languages.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">smartrent/nerves_hub_web</span>
+                                        <span class="repo">scaneer/scaneer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">TECH-1560-dependencies</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7745a95</div>
-                                        <div class="message">remove spandex_phoenix</div>
+                                        <div class="sha">#0de1e05</div>
+                                        <div class="message">Update metrics.plugin.isocalendar.fullyear.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">smartrent/nerves_hub_web</span>
+                                        <span class="repo">scaneer/scaneer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">TECH-1560-dependencies</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d4397a8</div>
-                                        <div class="message">oops forgot one</div>
+                                        <div class="sha">#2809b36</div>
+                                        <div class="message">Update metrics.plugin.activity.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
                             </section>
