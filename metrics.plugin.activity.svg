@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">scaneer/scaneer</span>
+                                        <span class="repo">scaneer/gavel</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feature/gavel</span></div>
                                     <div class="commit">
-                                        <div class="sha">#328158f</div>
-                                        <div class="message">Update metrics.plugin.habits.charts.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#e9a79c7</div>
+                                        <div class="message">will this work?</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">scaneer/scaneer</span>
+                                        <span class="repo">scaneer/gavel</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feature/gavel</span></div>
                                     <div class="commit">
-                                        <div class="sha">#581916d</div>
-                                        <div class="message">Update languages.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#d65c23a</div>
+                                        <div class="message">add updates</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">scaneer/scaneer</span>
+                                        <span class="repo">scaneer/gavel</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feature/gavel</span></div>
                                     <div class="commit">
-                                        <div class="sha">#14d5e65</div>
-                                        <div class="message">Update metrics.plugin.stars.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#4d5fd42</div>
+                                        <div class="message">try x86_64</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">scaneer/scaneer</span>
+                                        <span class="repo">scaneer/gavel</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feature/gavel</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d68dc50</div>
-                                        <div class="message">Update metrics.plugin.activity.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#e234d6d</div>
+                                        <div class="message">lol that was dumb™</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">scaneer/scaneer</span>
+                                        <span class="repo">scaneer/gavel</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feature/gavel</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2535796</div>
-                                        <div class="message">Update metrics.plugin.isocalendar.fullyear.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#ffff077</div>
+                                        <div class="message">?</div>
                                     </div>
                                 </div>
                             </section>
